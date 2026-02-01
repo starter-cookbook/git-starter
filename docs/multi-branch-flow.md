@@ -1,5 +1,5 @@
 ---
-title: Standard Team Flow
+title: Multi-Branch Flow
 nav_order: 5
 ---
 
