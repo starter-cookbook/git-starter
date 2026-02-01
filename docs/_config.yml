@@ -1,0 +1,18 @@
+remote_theme: just-the-docs/just-the-docs@v0.11.1
+plugins:
+- jekyll-remote-theme
+- jemoji
+
+title: Git Starter
+description: Getting started with git.
+nav_external_links:
+  - title: Issues
+    url: https://github.com/starter-cookbook/git-starter/issues
+    hide_icon: false
+    opens_in_new_tab: true
+  - title: Discussions
+    url: https://github.com/starter-cookbook/git-starter/discussions
+    hide_icon: false
+    opens_in_new_tab: true
+
+color_scheme: wider
