@@ -1,5 +1,5 @@
 ---
-title: Minimal Single Dev Flow
+title: Single Branch Flow
 nav_order: 3
 ---
 

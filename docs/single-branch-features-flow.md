@@ -1,5 +1,5 @@
 ---
-title: Minimal Team Flow
+title: Single Branch with Feature Branches
 nav_order: 4
 ---
 
