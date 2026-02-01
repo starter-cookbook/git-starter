@@ -1,3 +1,8 @@
+---
+title: Git Install & Setup
+nav_order: 2
+---
+
 # Installation
 
 Install git by going to [https://git-scm.com/](https://git-scm.com/)

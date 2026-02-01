@@ -1,3 +1,8 @@
+---
+title: Standard Team Flow
+nav_order: 5
+---
+
 # Git Flow Lite
 
 A common simple workflow is Git Flow Lite.
