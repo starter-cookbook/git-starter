@@ -1,3 +1,8 @@
+---
+title: Minimal Single Dev Flow
+nav_order: 3
+---
+
 # Basic workflow for solo work
 
 This is a basic workflow if you are working on a repository all by yourself.

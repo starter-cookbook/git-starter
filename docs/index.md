@@ -1,5 +1,5 @@
 ---
-title: Git Starter
+title: Home
 nav_order: 1
 ---
 

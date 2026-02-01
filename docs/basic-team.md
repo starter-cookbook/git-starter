@@ -1,3 +1,8 @@
+---
+title: Minimal Team Flow
+nav_order: 4
+---
+
 # Basic git workflow for a small team
 
 This workflow is a basic git workflow for a small team of more than 1 member.
