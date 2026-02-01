@@ -5,6 +5,15 @@ plugins:
 
 title: Git Starter
 description: Getting started with git.
+
+# Aux links for the upper right navigation
+aux_links:
+  "GitHub":
+    - "//github.com/starter-cookbook/git-starter"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
 nav_external_links:
   - title: Issues
     url: https://github.com/starter-cookbook/git-starter/issues
