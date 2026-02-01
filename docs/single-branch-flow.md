@@ -12,7 +12,7 @@ The workflow has one branch and commits directly to that branch.
 No branches other than `main`.  This is one of the simplest workflows for git.
 
 {: .warning }
-This workflow is not recommended if you work with others.
+This workflow is not recommended if you work with others. If not used carefully it can lead to more merge conflicts and overwritten changes.
 
 ## Start your day
 
