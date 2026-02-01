@@ -25,3 +25,8 @@ nav_external_links:
     opens_in_new_tab: true
 
 color_scheme: wider
+
+callouts:
+  warning:
+    title: Warning
+    color: red

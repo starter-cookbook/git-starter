@@ -3,7 +3,7 @@ title: Single Branch Flow
 nav_order: 3
 ---
 
-# Basic workflow for solo work
+# Single Branch Flow - for solo work
 
 This is a basic workflow if you are working on a repository all by yourself.
 
@@ -11,6 +11,7 @@ The workflow has one branch and commits directly to that branch.
 
 No branches other than `main`.  This is one of the simplest workflows for git.
 
+{: .warning }
 This workflow is not recommended if you work with others.
 
 ## Start your day

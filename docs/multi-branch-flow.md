@@ -3,9 +3,7 @@ title: Multi-Branch Flow
 nav_order: 5
 ---
 
-# Git Flow Lite
-
-A common simple workflow is Git Flow Lite.
+# Multi-Branch Flow
 
 This workflow works well with 2-5 people when you want to maintain different environments.
 

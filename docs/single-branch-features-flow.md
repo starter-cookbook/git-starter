@@ -3,11 +3,11 @@ title: Single Branch with Feature Branches
 nav_order: 4
 ---
 
-# Basic git workflow for a small team
+# Single Branch with Feature Branches
 
 This workflow is a basic git workflow for a small team of more than 1 member.
 
-This workflow can also be used as a solo developer if you want an extra layer of protection before pushing to `main`
+This workflow can also be used as a solo developer if you want an extra layer before pushing to `main`
 
 This workflow uses a single branch `main`, feature branches and pull requests.
 
